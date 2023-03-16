@@ -1,0 +1,8 @@
+com\ayari\FraudController.class
+com\ayari\FraudApplication.class
+com\ayari\Main.class
+com\ayari\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\ayari\FraudCheckHistory.class
+com\ayari\FraudCheckHistoryRepository.class
+com\ayari\FraudCheckService.class
+com\ayari\FraudCheckResponse.class
